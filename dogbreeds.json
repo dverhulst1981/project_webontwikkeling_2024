@@ -6,7 +6,7 @@
         "age": 5,
         "isActive": true,
         "birthdate": "2019-06-15",
-        "imageUrl": "images/labrador.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/project_webontwikkeling_2024/refs/heads/main/images/labrador.jpg",
         "size": "Large",
         "hobbies": [
             "Fetch spelen",
@@ -18,7 +18,7 @@
             "name": "Jan de Vries",
             "age": 35,
             "ownsMultipleDogs": true,
-            "profileImage": "images/jan.jpg"
+            "profileImage": "https://raw.githubusercontent.com/dverhulst1981/project_webontwikkeling_2024/refs/heads/main/images/jan.jpg"
         }
     },
     {
@@ -28,7 +28,7 @@
         "age": 6,
         "isActive": true,
         "birthdate": "2018-04-10",
-        "imageUrl": "images/duitse-herder.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/project_webontwikkeling_2024/refs/heads/main/images/duitse-herder.jpg",
         "size": "Large",
         "hobbies": [
             "Waakzaamheid",
@@ -40,7 +40,7 @@
             "name": "Lisa van Dijk",
             "age": 29,
             "ownsMultipleDogs": false,
-            "profileImage": "images/lisa.jpg"
+            "profileImage": "https://raw.githubusercontent.com/dverhulst1981/project_webontwikkeling_2024/refs/heads/main/images/lisa.jpg"
         }
     },
     {
@@ -50,7 +50,7 @@
         "age": 4,
         "isActive": true,
         "birthdate": "2020-08-20",
-        "imageUrl": "images/golden-retriever.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/project_webontwikkeling_2024/refs/heads/main/images/golden-retriever.jpg",
         "size": "Large",
         "hobbies": [
             "Zwemmen",
@@ -62,7 +62,7 @@
             "name": "Karel Jansen",
             "age": 40,
             "ownsMultipleDogs": true,
-            "profileImage": "images/karel.jpg"
+            "profileImage": "https://raw.githubusercontent.com/dverhulst1981/project_webontwikkeling_2024/refs/heads/main/images/karel.jpg"
         }
     },
     {
@@ -72,7 +72,7 @@
         "age": 3,
         "isActive": false,
         "birthdate": "2021-11-05",
-        "imageUrl": "images/beagle.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/project_webontwikkeling_2024/refs/heads/main/images/beagle.jpg",
         "size": "Medium",
         "hobbies": [
             "Snuffelen",
@@ -84,7 +84,7 @@
             "name": "Emma de Boer",
             "age": 25,
             "ownsMultipleDogs": false,
-            "profileImage": "images/emma.jpg"
+            "profileImage": "https://raw.githubusercontent.com/dverhulst1981/project_webontwikkeling_2024/refs/heads/main/images/emma.jpg"
         }
     },
     {
@@ -94,7 +94,7 @@
         "age": 7,
         "isActive": false,
         "birthdate": "2017-02-25",
-        "imageUrl": "images/bulldog.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/project_webontwikkeling_2024/refs/heads/main/images/bulldog.jpg",
         "size": "Medium",
         "hobbies": [
             "Slapen",
@@ -106,7 +106,7 @@
             "name": "Pieter Bakker",
             "age": 50,
             "ownsMultipleDogs": true,
-            "profileImage": "images/pieter.jpg"
+            "profileImage": "https://raw.githubusercontent.com/dverhulst1981/project_webontwikkeling_2024/refs/heads/main/images/pieter.jpg"
         }
     },
     {
@@ -116,7 +116,7 @@
         "age": 4,
         "isActive": true,
         "birthdate": "2020-05-12",
-        "imageUrl": "images/border-collie.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/project_webontwikkeling_2024/refs/heads/main/images/border-collie.jpg",
         "size": "Medium",
         "hobbies": [
             "Schapendrijven",
@@ -128,7 +128,7 @@
             "name": "Sophie van den Berg",
             "age": 32,
             "ownsMultipleDogs": false,
-            "profileImage": "images/sophie.jpg"
+            "profileImage": "https://raw.githubusercontent.com/dverhulst1981/project_webontwikkeling_2024/refs/heads/main/images/sophie.jpg"
         }
     },
     {
@@ -138,7 +138,7 @@
         "age": 2,
         "isActive": true,
         "birthdate": "2022-09-30",
-        "imageUrl": "images/chihuahua.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/project_webontwikkeling_2024/refs/heads/main/images/chihuahua.jpg",
         "size": "Small",
         "hobbies": [
             "Op schoot zitten",
@@ -150,7 +150,7 @@
             "name": "Laura Smits",
             "age": 27,
             "ownsMultipleDogs": true,
-            "profileImage": "images/laura.jpg"
+            "profileImage": "https://raw.githubusercontent.com/dverhulst1981/project_webontwikkeling_2024/refs/heads/main/images/laura.jpg"
         }
     },
     {
@@ -160,7 +160,7 @@
         "age": 5,
         "isActive": true,
         "birthdate": "2019-07-18",
-        "imageUrl": "images/shiba.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/project_webontwikkeling_2024/refs/heads/main/images/shiba.jpg",
         "size": "Small",
         "hobbies": [
             "Jagen",
@@ -172,7 +172,7 @@
             "name": "Tom Janssen",
             "age": 38,
             "ownsMultipleDogs": false,
-            "profileImage": "images/tom.jpg"
+            "profileImage": "https://raw.githubusercontent.com/dverhulst1981/project_webontwikkeling_2024/refs/heads/main/images/tom.jpg"
         }
     },
     {
@@ -182,7 +182,7 @@
         "age": 6,
         "isActive": true,
         "birthdate": "2018-12-05",
-        "imageUrl": "images/dalmatier.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/project_webontwikkeling_2024/refs/heads/main/images/dalmatier.jpg",
         "size": "Large",
         "hobbies": [
             "Hardlopen",
@@ -194,7 +194,7 @@
             "name": "Erik de Groot",
             "age": 45,
             "ownsMultipleDogs": true,
-            "profileImage": "images/erik.jpg"
+            "profileImage": "https://raw.githubusercontent.com/dverhulst1981/project_webontwikkeling_2024/refs/heads/main/images/erik.jpg"
         }
     },
     {
@@ -204,7 +204,7 @@
         "age": 7,
         "isActive": false,
         "birthdate": "2017-08-21",
-        "imageUrl": "images/newfoundlander.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/project_webontwikkeling_2024/refs/heads/main/images/newfoundlander.jpg",
         "size": "Large",
         "hobbies": [
             "Zwemmen",
@@ -216,7 +216,7 @@
             "name": "Marieke Vos",
             "age": 41,
             "ownsMultipleDogs": false,
-            "profileImage": "images/marieke.jpg"
+            "profileImage": "https://raw.githubusercontent.com/dverhulst1981/project_webontwikkeling_2024/refs/heads/main/images/marieke.jpg"
         }
     }
 ]
