@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "name": "Labrador Retriever",
+        "description": "Een vriendelijke, intelligente en actieve hond die geweldig is als gezinshond.",
+        "age": 5,
+        "isActive": true,
+        "birthdate": "2019-06-15",
+        "imageUrl": "images/labrador.jpg",
+        "size": "Large",
+        "hobbies": [
+            "Fetch spelen",
+            "Zwemmen",
+            "Rennen"
+        ],
+        "owner": {
+            "id": 101,
+            "name": "Jan de Vries",
+            "age": 35,
+            "ownsMultipleDogs": true,
+            "profileImage": "images/jan.jpg"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Duitse Herder",
+        "description": "Een trouwe, moedige en intelligente werkhond die vaak wordt gebruikt bij politie en leger.",
+        "age": 6,
+        "isActive": true,
+        "birthdate": "2018-04-10",
+        "imageUrl": "images/duitse-herder.jpg",
+        "size": "Large",
+        "hobbies": [
+            "Waakzaamheid",
+            "Training",
+            "Spelletjes"
+        ],
+        "owner": {
+            "id": 102,
+            "name": "Lisa van Dijk",
+            "age": 29,
+            "ownsMultipleDogs": false,
+            "profileImage": "images/lisa.jpg"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Golden Retriever",
+        "description": "Vriendelijk, betrouwbaar en intelligent, ideaal als therapiehond.",
+        "age": 4,
+        "isActive": true,
+        "birthdate": "2020-08-20",
+        "imageUrl": "images/golden-retriever.jpg",
+        "size": "Large",
+        "hobbies": [
+            "Zwemmen",
+            "Speuren",
+            "Spelen met kinderen"
+        ],
+        "owner": {
+            "id": 103,
+            "name": "Karel Jansen",
+            "age": 40,
+            "ownsMultipleDogs": true,
+            "profileImage": "images/karel.jpg"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Beagle",
+        "description": "Een nieuwsgierige en energieke hond met een uitstekende neus.",
+        "age": 3,
+        "isActive": false,
+        "birthdate": "2021-11-05",
+        "imageUrl": "images/beagle.jpg",
+        "size": "Medium",
+        "hobbies": [
+            "Snuffelen",
+            "Jagen",
+            "Eten"
+        ],
+        "owner": {
+            "id": 104,
+            "name": "Emma de Boer",
+            "age": 25,
+            "ownsMultipleDogs": false,
+            "profileImage": "images/emma.jpg"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Bulldog",
+        "description": "Een aanhankelijke en relaxte hond met een kenmerkende uitstraling.",
+        "age": 7,
+        "isActive": false,
+        "birthdate": "2017-02-25",
+        "imageUrl": "images/bulldog.jpg",
+        "size": "Medium",
+        "hobbies": [
+            "Slapen",
+            "Knuffelen",
+            "Eten"
+        ],
+        "owner": {
+            "id": 105,
+            "name": "Pieter Bakker",
+            "age": 50,
+            "ownsMultipleDogs": true,
+            "profileImage": "images/pieter.jpg"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Border Collie",
+        "description": "Een uiterst intelligente en energieke hond, ideaal voor herderswerk en behendigheidstraining.",
+        "age": 4,
+        "isActive": true,
+        "birthdate": "2020-05-12",
+        "imageUrl": "images/border-collie.jpg",
+        "size": "Medium",
+        "hobbies": [
+            "Schapendrijven",
+            "Behendigheid",
+            "Rennen"
+        ],
+        "owner": {
+            "id": 106,
+            "name": "Sophie van den Berg",
+            "age": 32,
+            "ownsMultipleDogs": false,
+            "profileImage": "images/sophie.jpg"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Chihuahua",
+        "description": "Een kleine maar moedige hond met een grote persoonlijkheid.",
+        "age": 2,
+        "isActive": true,
+        "birthdate": "2022-09-30",
+        "imageUrl": "images/chihuahua.jpg",
+        "size": "Small",
+        "hobbies": [
+            "Op schoot zitten",
+            "Blaffen",
+            "Wandelen"
+        ],
+        "owner": {
+            "id": 107,
+            "name": "Laura Smits",
+            "age": 27,
+            "ownsMultipleDogs": true,
+            "profileImage": "images/laura.jpg"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Shiba Inu",
+        "description": "Een onafhankelijke en alerte hond met een katachtige persoonlijkheid.",
+        "age": 5,
+        "isActive": true,
+        "birthdate": "2019-07-18",
+        "imageUrl": "images/shiba.jpg",
+        "size": "Small",
+        "hobbies": [
+            "Jagen",
+            "Spelen",
+            "Wandelen"
+        ],
+        "owner": {
+            "id": 108,
+            "name": "Tom Janssen",
+            "age": 38,
+            "ownsMultipleDogs": false,
+            "profileImage": "images/tom.jpg"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Dalmatier",
+        "description": "Een atletische en elegante hond met een opvallende gevlekte vacht.",
+        "age": 6,
+        "isActive": true,
+        "birthdate": "2018-12-05",
+        "imageUrl": "images/dalmatier.jpg",
+        "size": "Large",
+        "hobbies": [
+            "Hardlopen",
+            "Speuren",
+            "Spelen met kinderen"
+        ],
+        "owner": {
+            "id": 109,
+            "name": "Erik de Groot",
+            "age": 45,
+            "ownsMultipleDogs": true,
+            "profileImage": "images/erik.jpg"
+        }
+    },
+    {
+        "id": 10,
+        "name": "Newfoundlander",
+        "description": "Een zachtaardige reus met een liefde voor water en reddingswerk.",
+        "age": 7,
+        "isActive": false,
+        "birthdate": "2017-08-21",
+        "imageUrl": "images/newfoundlander.jpg",
+        "size": "Large",
+        "hobbies": [
+            "Zwemmen",
+            "Reddingswerk",
+            "Knuffelen"
+        ],
+        "owner": {
+            "id": 110,
+            "name": "Marieke Vos",
+            "age": 41,
+            "ownsMultipleDogs": false,
+            "profileImage": "images/marieke.jpg"
+        }
+    }
+]

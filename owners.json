@@ -1,0 +1,72 @@
+[
+    {
+        "id": 101,
+        "name": "Jan de Vries",
+        "age": 35,
+        "ownsMultipleDogs": true,
+        "profileImage": "images/jan.jpg"
+    },
+    {
+        "id": 102,
+        "name": "Lisa van Dijk",
+        "age": 29,
+        "ownsMultipleDogs": false,
+        "profileImage": "images/lisa.jpg"
+    },
+    {
+        "id": 109,
+        "name": "Erik de Groot",
+        "age": 45,
+        "ownsMultipleDogs": true,
+        "profileImage": "images/erik.jpg"
+    },
+    {
+        "id": 103,
+        "name": "Karel Jansen",
+        "age": 40,
+        "ownsMultipleDogs": true,
+        "profileImage": "images/karel.jpg"
+    },
+    {
+        "id": 104,
+        "name": "Emma de Boer",
+        "age": 25,
+        "ownsMultipleDogs": false,
+        "profileImage": "images/emma.jpg"
+    },
+    {
+        "id": 105,
+        "name": "Pieter Bakker",
+        "age": 50,
+        "ownsMultipleDogs": true,
+        "profileImage": "images/pieter.jpg"
+    },
+    {
+        "id": 110,
+        "name": "Marieke Vos",
+        "age": 41,
+        "ownsMultipleDogs": false,
+        "profileImage": "images/marieke.jpg"
+    },
+    {
+        "id": 107,
+        "name": "Laura Smits",
+        "age": 27,
+        "ownsMultipleDogs": true,
+        "profileImage": "images/laura.jpg"
+    },
+    {
+        "id": 106,
+        "name": "Sophie van den Berg",
+        "age": 32,
+        "ownsMultipleDogs": false,
+        "profileImage": "images/sophie.jpg"
+    },
+    {
+        "id": 108,
+        "name": "Tom Janssen",
+        "age": 38,
+        "ownsMultipleDogs": false,
+        "profileImage": "images/tom.jpg"
+    }
+]
